@@ -1,7 +1,9 @@
 # SNP-Analysis-Example
-SNP Analysis Example (Ref: Bioinformatics using R (Acorn))
+Single-nucleotide polymorphism(SNP) Analysis Example 
 
-Reference PDF: http://davinci.crg.es/estivill_lab/tools/SNPassoc/SupplementaryMaterial.pdf
+Language: R
+
+Function: Fundamental Example for SNP data handling
 
 1. Phenotype SNP Association Analysis of each SNP
 
@@ -23,4 +25,6 @@ Reference PDF: http://davinci.crg.es/estivill_lab/tools/SNPassoc/SupplementaryMa
 
 10. Visualization of GWAS
 
+Reference PDF: http://davinci.crg.es/estivill_lab/tools/SNPassoc/SupplementaryMaterial.pdf
+Reference Book: Bioinformatics using R (Acorn)
 Contact: hmh929@kaist.ac.kr
