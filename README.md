@@ -26,5 +26,7 @@ Function: Fundamental Example for SNP data handling
 10. Visualization of GWAS
 
 Reference PDF: http://davinci.crg.es/estivill_lab/tools/SNPassoc/SupplementaryMaterial.pdf
+
 Reference Book: Bioinformatics using R (Acorn)
+
 Contact: hmh929@kaist.ac.kr
